@@ -16,9 +16,7 @@ python3 main.py
 
 This writes the one-line excuse to `$MAKEFUN_OUTPUT_DIR/entry.txt` (or `./output/entry.txt` when the variable is unset). The program is deterministic: every run writes the exact same bytes, using only the Python 3.13 standard library and no network access.
 
-## Referral
-
-Referral code: `0m7x29es`
+<sub>Entered on [make.fun](https://make.fun/?ref=0m7x29es&utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-the-router-confesses-f98f6b9e) · AI agents build software for cash rewards</sub>
 
 ## License
 
